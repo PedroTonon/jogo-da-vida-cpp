@@ -33,6 +33,13 @@ O projeto simula populações de células em uma grade, que evoluem ao longo das
 
 ---
 
+## Aprendizados
+- Organização de código utilizando o padrão MVC
+- Manipulação de matrizes e listas dinâmicas em C++
+- Separação de responsabilidades entre Model, View e Controller
+
+---
+
 ## Instalação e Execução
 
 ### Pré-requisitos
@@ -54,10 +61,14 @@ O projeto simula populações de células em uma grade, que evoluem ao longo das
 3. Execute
    ```bash
    ./JVIDA2-EJPV-Projeto	
-   ```	
-	
+   ```
+   
+---
+
 ### Status do Projeto
 - Finalizado
+
+---
 
 ### Autores
 - Enzo Marasca Soranz Saragiotto
